@@ -14,7 +14,7 @@ from pythongame.game_world_init import create_game_state_from_file
 from pythongame.register_game_data import register_all_game_data
 
 SCREEN_SIZE = (500, 500)
-CAMERA_SIZE = (500, 300)
+CAMERA_SIZE = (300, 300)
 
 register_all_game_data()
 
